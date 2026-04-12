@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@source "../src";
+
+/* Add your themes here inside the plugin block */
+@plugin "daisyui" {
+    themes: all;
+}
